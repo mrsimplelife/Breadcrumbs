@@ -29,6 +29,11 @@
 - **`docker-compose.yml`**: Docker Compose 설정 파일
 - **`package.json`**: 프로젝트 설정 및 의존성 관리 파일
 - **`tsconfig.json`**: TypeScript 설정 파일
+```
+MYSQL_ROOT_PASSWORD=root_password
+MYSQL_DATABASE=mydb
+SECRET_KEY=secret_key
+```
 
 ## **테이블 구조**
 
